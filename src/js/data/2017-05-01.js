@@ -3,14 +3,17 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series Entry",
-    key: "series",
-    tooltip: "Check this to restrict to certain series.",
+    name: "Filter by Class Type",
+    key: "class",
+    tooltip: "Check this to restrict to certain classes.",
     checked: false,
     sub: [
-      { name: "Bombergirl", key: "Bombergirl" }
+      { name: "Bomber", key: "Bomber" },
+      { name: "Attacker", key: "Attacker" },
+      { name: "Shooter", key: "Shooter" },
+      { name: "Blocker", key: "Blocker" },
     ]
-  }
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -18,140 +21,140 @@ dataSet[dataSetVersion].characterData = [
     name: "Shiro",
     img: "BIirmw4.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Bomber"],
     }
   },
   {
     name: "Oren",
     img: "AzKjrtZ.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Attacker"],
     }
   },
   {
     name: "Emera",
     img: "tlvTnOw.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Shooter"],
     }
   },
   {
     name: "Momoko",
     img: "RgN86Xu.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Blocker"],
     }
   },
   {
     name: "Kuro",
     img: "XBmyWil.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Bomber"],
     }
   },
   {
     name: "Urushi",
     img: "ED45ANr.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Attacker"],
     }
   },
   {
     name: "Paparu",
     img: "X6tRKqH.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Shooter"],
     }
   },
   {
     name: "Aqua",
     img: "M70olHJ.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Blocker"],
     }
   },
   {
     name: "Shiori",
     img: "HE43JOC.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Bomber"],
     }
   },
   {
     name: "Sepia",
     img: "khAJfks.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Attacker"],
     }
   },
   {
     name: "Tsugaru",
     img: "gBItjju.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Shooter"],
     }
   },
   {
     name: "Grim Aloe",
     img: "HDq7MFe.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Blocker"],
     }
   },
   {
     name: "Gray",
     img: "ReEpt9N.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Bomber"],
     }
   },
   {
     name: "Asagi",
     img: "tXQkdkX.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Attacker"],
     }
   },
   {
     name: "Pastel",
     img: "ignfhd6.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Shooter"],
     }
   },
   {
     name: "Pine",
     img: "Ykzk9As.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Blocker"],
     }
   },
   {
     name: "Shiron",
     img: "tncJdBb.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Bomber"],
     }
   },
   {
     name: "Tekka",
     img: "KIeGC3i.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Attacker"],
     }
   },
   {
     name: "Olive",
     img: "PlMkQpW.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Shooter"],
     }
   },
   {
     name: "Prune",
     img: "23mbRYD.png",
     opts: {
-      series: ["Bombergirl"]
+      class: ["Blocker"],
     }
-  }
+  },
 ];
