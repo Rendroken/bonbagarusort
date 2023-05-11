@@ -19,175 +19,175 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Shiro",
-    img: "xM5fJ3V.png",
+    img: "fhUpQn5.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Oren",
-    img: "nX6hK8z.png",
+    img: "bRGwswG.png",
     opts: {
       class: ["Attacker"],
     }
   },
   {
     name: "Emera",
-    img: "5CrAvA2.png",
+    img: "nxCTzqH.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Momoko",
-    img: "R6UihZL.png",
+    img: "GDLWSLD.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Kuro",
-    img: "GdH06i6.png",
+    img: "MRytAGD.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Urushi",
-    img: "NL6MRi7.png",
+    img: "z1MwaMG.png",
     opts: {
       class: ["Attacker"],
     }
   },
   {
     name: "Paparu",
-    img: "Ln2zw9Q.png",
+    img: "5Rd8d5t.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Aqua",
-    img: "Jn4r7AO.png",
+    img: "KBANXl7.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Shiori",
-    img: "5rnvkk0.png",
+    img: "PzbUnOK.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Sepia",
-    img: "CfJYJSJ.png",
+    img: "VhVqXeg.png",
     opts: {
       class: ["Attacker"],
     }
   },
   {
     name: "Tsugaru",
-    img: "jgom2dz.png",
+    img: "CkGzYNE.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Grim Aloe",
-    img: "xpfInWL.png",
+    img: "LtNcSV6.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Gray",
-    img: "ncd1pHv.png",
+    img: "Cf0QCxO.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Asagi",
-    img: "WGVxe4Y.png",
+    img: "PjPov4a.png",
     opts: {
       class: ["Attacker"],
     }
   },
   {
     name: "Pastel",
-    img: "bb9fr7B.png",
+    img: "k1atlo0.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Pine",
-    img: "Lt5mFGV.png",
+    img: "J8NQKCC.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Shiron",
-    img: "2CMQ5Nj.png",
+    img: "JPlyWus.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Tekka",
-    img: "c4aHR4t.png",
+    img: "VIIi41w.png",
     opts: {
       class: ["Attacker"],
     }
   },
   {
     name: "Olive",
-    img: "IgTMhMl.png",
+    img: "J9hoR27.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Prune",
-    img: "FVneU0H.png",
+    img: "kiQwEw1.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Platinum",
-    img: "KG4WrKU.png",
+    img: "FrgpzWJ.png",
     opts: {
       class: ["Bomber"],
     }
   },
   {
     name: "Silver",
-    img: "k2p2ihY.png",
+    img: "4aOMUbW.png",
     opts: {
       class: ["Shooter"],
     }
   },
   {
     name: "Blueberry",
-    img: "KItI0ru.png",
+    img: "vrAoB7T.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Melon",
-    img: "UHj3SxI.png",
+    img: "RpuWPMw.png",
     opts: {
       class: ["Blocker"],
     }
   },
   {
     name: "Chigusa",
-    img: "omMuttB.png",
+    img: "ghkXHnE.png",
     opts: {
       class: ["Attacker"],
     }
