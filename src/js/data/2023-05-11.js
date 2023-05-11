@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Paparu",
+    name: "Papuru",
     img: "5Rd8d5t.png",
     opts: {
       class: ["Shooter"],
