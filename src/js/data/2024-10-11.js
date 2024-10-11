@@ -207,13 +207,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Brass",
-    img: "KCnKgId.png",
-    opts: {
-      class: ["Shooter"],
-    }
-  },
-  {
     name: "Dark",
     img: "Q8bM5v2.png",
     opts: {
